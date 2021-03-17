@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=WhiteCell
+comment0.text=\n\ Dies\ ist\ eine\ wei\u00DFe\ Blutzelle.\ Diese\ Zellart\ hat\ die\ Aufgabe,\ Bakterien\ \ \ \n\ abzufangen\ und\ aus\ dem\ Blut\ zu\ entfernen.\n\ \n\ @author\ Michael\ K\u00F6lling\n\ @version\ 0.1\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Aktion\:\ auf-\ und\ abbewegen,\ wenn\ Pfeiltasten\ gedr\u00FCckt\ werden.\n
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\n\ Pr\u00FCft,\ ob\ eine\ Taste\ auf\ der\ Tastatur\ gedr\u00FCckt\ wurde,\ und\n\ reagiert,\ falls\ dies\ zutrifft.\ \ \ \ \ \n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment4.params=
+comment4.target=void\ lost()
+comment5.params=
+comment5.target=void\ setLifeSymbols()
+comment6.params=
+comment6.target=void\ removeLifeSymbols()
+numComments=7
