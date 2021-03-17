@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=keyName\ soundFile
+comment1.target=Key(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Erstellt\ eine\ neue\ Taste.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Die\ Aktion\ fuer\ diese\ Taste.\n
+comment3.params=
+comment3.target=void\ play()
+numComments=4
